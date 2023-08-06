@@ -1,4 +1,7 @@
+<h3 align="center">
 Speech-Enabled Notepad and Text Summarization Projects
+</h3>
+
 
 This repository contains two projects: Speech Enabled Notepad and Text Summarization.
 

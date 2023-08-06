@@ -1,4 +1,5 @@
 Speech-Enabled Notepad and Text Summarization Projects
+
 This repository contains two projects: Speech Enabled Notepad and Text Summarization.
 
 Speech Enabled Notepad
